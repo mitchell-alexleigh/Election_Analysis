@@ -20,7 +20,6 @@ candidate_options = []
 candidate_votes = {}
 
 # 1: Create a county list and county votes dictionary.
-
 couties = []
 county_votes ={}
 
@@ -31,7 +30,6 @@ winning_percentage = 0
 
 # 2: Track the largest county and county voter turnout. 
     # lt = largest turnout 
-
 largest_turnout= ""
 largest_count = 0
 
