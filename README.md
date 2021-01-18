@@ -28,17 +28,17 @@ The purpose of this project was to use Python to find election results and voter
 > ![County Votes img2](/resources/county_votes_2.png)\
 > ![County Votes img3](/resources/county_votes_3.png)
 
-
 * Denver County had the most voters 
 > *corresponding Python Code*\
 > ![Largest Turnout img1](/resources/turnout_1.png)\
 > ![Largest Turnout img2](/resources/turnout_2.png)
 
 * Votes per candidate:
-	*Charles Casper Stockham received 85,213 votes, accounting for 23.0% of all votes
-	*Diana DeGette received 272,892 votes, accounting for 73.8% of all votes
-	*Raymon Anthony Doane received 11,606 votes, accounting for 3.1% of all votes 
-> *corresponding Python Code*\ 
+	* Charles Casper Stockham received 85,213 votes, accounting for 23.0% of all votes
+	* Diana DeGette received 272,892 votes, accounting for 73.8% of all votes
+	* Raymon Anthony Doane received 11,606 votes, accounting for 3.1% of all votes 
+	
+> *corresponding Python Code*\
 > ![Candidate Votes img1](/resources/candidate_votes_1.png)\
 > ![Candidate Votes img2](/resources/candidate_votes_2.png)\
 > ![Candidate Votes img3](/resources/candidate_votes_3.png)
